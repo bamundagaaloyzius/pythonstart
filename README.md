@@ -1,2 +1,2 @@
 This is my first file
-This is a teest with nano editor
+This is a test with nano editor
